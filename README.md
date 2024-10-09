@@ -23,6 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://images.app.goo.gl/CCvNyYciS6G9uDNx9" height="40" alt="javascript logo"  />
 </div>
 
 ###
